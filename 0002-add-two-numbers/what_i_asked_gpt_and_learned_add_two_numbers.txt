@@ -1,0 +1,101 @@
+WHAT I ASKED GPT & WHAT GPT HELPED ME WITH
+===============================================
+
+I was learning Python Linked Lists from scratch and used GPT mainly to
+understand the syntax and what was actually happening in memory/references,
+rather than just getting the solution.
+
+First, I asked how a Linked List works in Python and how I could "hover"
+through it. I understood that a ListNode has a value and a next reference,
+and that moving through the list is done with:
+
+    current = current.next
+
+I also learned that this does NOT change the linked list itself. It only
+moves the current reference from one node to the next.
+
+Then I asked about basic Python for-loop syntax because I needed it for
+building and traversing the list. I learned the useful patterns such as
+range(), range(start, end), and looping through values.
+
+For the Add Two Numbers problem, I wanted to create a new ListNode for every
+digit. I initially thought I could do something like:
+
+    ListNode(string4[i], string4[i+1])
+
+GPT helped me understand the important difference between the two arguments:
+the first argument is the node's value, while the second argument is supposed
+to be another ListNode (the next node), not simply the next integer.
+
+The biggest thing I figured out was how to actually build the linked list.
+I was creating a new node inside the loop, but I initially didn't understand
+how to keep the first node while continuing to create new ones.
+
+GPT introduced the idea of using:
+
+    head = None
+    current = None
+
+Then I understood the logic:
+
+    if head is None:
+        head = new_node
+        current = new_node
+    else:
+        current.next = new_node
+        current = new_node
+
+This made the purpose of the two variables clear.
+
+`head` stays at the beginning of the list:
+
+    head
+     ↓
+    5 → 6 → 4 → None
+
+while `current` moves forward as new nodes are added.
+
+I also learned that these two lines do different jobs:
+
+    current.next = new_node
+
+connects the current node to the new node.
+
+    current = new_node
+
+moves the current reference to the newly created node.
+
+Another important point was why returning `new_node` only gives the last node.
+Since `new_node` is reassigned during every iteration, it ends up pointing at
+the final node. `head`, however, still points to the first node, and the whole
+chain can be reached from there. Therefore:
+
+    return head
+
+returns the entire linked list.
+
+While testing, I also learned that printing a ListNode directly can show
+something like:
+
+    <__main__.ListNode object at ...>
+
+That doesn't mean the node is broken; Python is simply printing the object
+representation. To see the value, I need `.val`, and to see the whole list I
+need to traverse it.
+
+I also ran into a LeetCode error because I had defined my own ListNode class
+even though LeetCode already provides one. Removing my duplicate definition
+fixed that type/serialization issue.
+
+Overall, GPT mostly helped me understand the syntax and the reasoning behind
+the linked-list construction while I worked out the solution myself. The
+important concepts I want to remember are:
+
+- `ListNode(value)` creates a node.
+- `node.val` accesses its value.
+- `node.next` accesses the next node.
+- `current = current.next` moves through a list.
+- `current.next = new_node` connects nodes.
+- `head` keeps the first node.
+- `return head` returns the whole linked list.
+- `new_node` inside a loop normally ends up referring to the last node.
