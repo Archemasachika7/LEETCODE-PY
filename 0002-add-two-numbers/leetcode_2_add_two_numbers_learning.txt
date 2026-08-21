@@ -1,0 +1,126 @@
+LEETCODE LEARNING NOTES
+========================
+Problem: 2. Add Two Numbers
+Topic: Linked List
+Language: Python
+
+MY APPROACH
+-----------
+1. Traverse l1 and store all values in a Python list.
+2. Traverse l2 and store all values in another Python list.
+3. Convert each list of digits into an integer.
+4. Add the two integers.
+5. Convert the result to a string and reverse it.
+6. Build a new linked list from the reversed digits.
+7. Return the head of the new linked list.
+
+IMPORTANT LINKED-LIST CONCEPTS LEARNED
+--------------------------------------
+- A ListNode contains:
+      val  -> the value stored in the node
+      next -> reference to the next ListNode (or None)
+
+- Create a new node:
+      new_node = ListNode(value)
+
+- The first node is commonly stored in:
+      head
+
+- A moving reference is commonly stored in:
+      current
+
+- Initialize:
+      head = None
+      current = None
+
+- First node:
+      if head is None:
+          head = new_node
+          current = new_node
+
+- Add subsequent nodes:
+      current.next = new_node
+      current = new_node
+
+- Return the WHOLE linked list:
+      return head
+
+WHY NEW_NODE ONLY RETURNS THE LAST NODE
+---------------------------------------
+Inside a loop:
+
+      new_node = ListNode(...)
+
+new_node is reassigned on every iteration.
+
+So at the end it points to the last node.
+
+head stays pointing to the first node, and because the nodes are connected:
+
+      head -> 5 -> 6 -> 4 -> None
+
+return head gives the whole list.
+
+TRAVERSAL
+---------
+To move through a linked list:
+
+      current = head
+      while current:
+          print(current.val)
+          current = current.next
+
+KEY SYNTAX
+----------
+Python:
+      if head is None:
+          ...
+
+Use "is None" for checking None.
+"=" is assignment.
+
+ListNode:
+      ListNode(value)
+      ListNode(value, next_node)
+
+The second argument is NOT the next value.
+It is a reference to the next ListNode.
+
+For example:
+      ListNode(1, ListNode(2))
+
+means:
+
+      1 -> 2 -> None
+
+DEBUGGING LESSON
+----------------
+When LeetCode already provides ListNode, do NOT define another ListNode
+class yourself. A duplicate class can cause type/serialization errors because
+your ListNode and LeetCode's ListNode are different Python classes.
+
+MY IMPORTANT REALIZATION
+------------------------
+"current.next = new_node" connects the nodes.
+"current = new_node" moves the current pointer.
+
+These are two separate operations.
+
+INTENDED OPTIMAL APPROACH
+-------------------------
+My solution converts the linked lists into integers first. It works for
+learning, but it is not the intended scalable solution.
+
+The intended solution adds the digits directly while traversing the linked
+lists, using a carry.
+
+NEXT THING TO LEARN
+-------------------
+Solve Add Two Numbers again WITHOUT converting the linked lists into integers.
+
+Focus on:
+- traversing two linked lists simultaneously
+- carry
+- creating nodes
+- dummy node
+- current pointer
