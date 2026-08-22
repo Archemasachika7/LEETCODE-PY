@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0001-two-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
