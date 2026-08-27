@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/1672-richest-customer-wealth) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -89,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
