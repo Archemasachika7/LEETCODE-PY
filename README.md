@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/1480-running-sum-of-1d-array) |
@@ -79,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
