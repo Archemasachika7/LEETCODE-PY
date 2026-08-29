@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
