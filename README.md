@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/1480-running-sum-of-1d-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -87,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -117,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
