@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0202-happy-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
