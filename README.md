@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Archemasachika7/LEETCODE-PY/tree/master/1991-find-the-middle-index-in-array) |
